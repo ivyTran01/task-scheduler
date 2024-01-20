@@ -1,0 +1,39 @@
+
+******************** USER MANUAL TO TASK TRACKER PROGRAM ********************
+*Note: The user must start running the program in order to perform operations below
+
+Operation 1: How to list all tasks
+    - On the menu window, click the button "List all task". All tasks in the to do's list will be displayed in the middle panel.
+    - If user has no tasks stored in the list, then it will display "No tasks to show.".
+
+Operation 2: How to add a new task
+    - Click button "Add Task" in the bottom of the menu window => A new pop-up window will appear.
+    - This pop-up window is asking you to enter the information about your new task (task name, notes, due date).
+    - Note that inside this pop-up window, there will be information about the task name and task notes that are randomly pre-filled for you.
+        + If you like the pre-filled random task, then you just need to pick the due date you want for the task.
+        + If you do not like this pre-filled random task, then you just need to move the cursor to the task name and notes text fields, modify/delete the pre-filled task, then enter your desired task name and note, and pick a due date.
+    - Click button "OK" to finalize and save your new task into your to do's list.
+    - If you wish to cancel this procedure, click button "CANCEL".
+
+Operation 3: How to remove a task
+    - Click button "List all tasks" to see all your tasks listed fully with all their information.
+    - For each task on your list, you will see the "Remove" button right below that task.
+    - Click that button "Remove" for the task you wish to remove => this task will no longer exist in your to do's list.
+
+Operation 4: How to mark a task as completed/incomplete
+    - Click button "List all tasks" to see all your tasks listed fully with all their information.
+    - For each task on your list, you will see the "Completed" checkbox right below that task.
+    - Select/deselect that "Completed" checkbox for the task you want to mark completed/incomplete.
+
+Operation 5: How to see your overdue incomplete tasks
+    - On the menu window, click button "Overdue" => you will see all your overdue incomplete tasks.
+
+Operation 6: How to see your upcoming incomplete tasks
+    - On the menu window, click button "Upcoming" => you will see all your upcoming incomplete tasks.
+
+Operation 7: How to exit the task tracker program
+    - On the menu window, click the "X" (close) button on the top right corner.
+    - You will see that your task tracker application window will be closed, and the program is ended.
+    - Don't worry, the task tracker application already saves all your task data and you will be able to see your to do's list again when you run the program next time!
+
+******************** THANK YOU AND ENJOY TRACKING YOUR TASKS! ********************
